@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#btn{
+    width: 57px;
+    height: 34px;
+    border-radius: 4vmin;
+}
+
+#search{
+    border-radius: 4vmin;
+    width: 221px;
+    height: 31px;
+}
+
